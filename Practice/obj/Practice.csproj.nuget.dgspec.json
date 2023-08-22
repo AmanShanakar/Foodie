@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Practice\\Practice\\Practice.csproj": {}
+    "C:\\Code\\Foodie\\Practice\\Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Practice\\Practice\\Practice.csproj": {
+    "C:\\Code\\Foodie\\Practice\\Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice\\Practice.csproj",
+        "projectUniqueName": "C:\\Code\\Foodie\\Practice\\Practice.csproj",
         "projectName": "Practice",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice\\Practice.csproj",
+        "projectPath": "C:\\Code\\Foodie\\Practice\\Practice.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Practice\\Practice\\obj\\",
+        "outputPath": "C:\\Code\\Foodie\\Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
