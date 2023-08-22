@@ -12,3 +12,17 @@ C:\Users\Admin\source\repos\Practice\Practice\obj\Debug\net6.0\refint\Practice.d
 C:\Users\Admin\source\repos\Practice\Practice\obj\Debug\net6.0\Practice.pdb
 C:\Users\Admin\source\repos\Practice\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Practice\Practice\obj\Debug\net6.0\ref\Practice.dll
+C:\Code\Foodie\Practice\bin\Debug\net6.0\Practice.exe
+C:\Code\Foodie\Practice\bin\Debug\net6.0\Practice.deps.json
+C:\Code\Foodie\Practice\bin\Debug\net6.0\Practice.runtimeconfig.json
+C:\Code\Foodie\Practice\bin\Debug\net6.0\Practice.dll
+C:\Code\Foodie\Practice\bin\Debug\net6.0\Practice.pdb
+C:\Code\Foodie\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Foodie\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+C:\Code\Foodie\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+C:\Code\Foodie\Practice\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
+C:\Code\Foodie\Practice\obj\Debug\net6.0\Practice.dll
+C:\Code\Foodie\Practice\obj\Debug\net6.0\refint\Practice.dll
+C:\Code\Foodie\Practice\obj\Debug\net6.0\Practice.pdb
+C:\Code\Foodie\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+C:\Code\Foodie\Practice\obj\Debug\net6.0\ref\Practice.dll
