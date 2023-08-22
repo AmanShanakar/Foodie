@@ -7,6 +7,7 @@ class Practice
     {
         //Sum of two numbers
         int a=5, b=6, num1=0, num2=1,sum;
+
         Console.WriteLine(sum = a + b);
 
         //Factorial Method
